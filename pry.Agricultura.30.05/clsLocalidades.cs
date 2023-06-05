@@ -50,5 +50,7 @@ namespace pry.Agricultura._30._05
             lista.DataSource = tabla;
         }
 
+
+
     }
 }

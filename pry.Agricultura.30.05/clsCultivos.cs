@@ -41,5 +41,9 @@ namespace pry.Agricultura._30._05
             combo.ValueMember = "cultivo";
             combo.DataSource = tabla;
         }
+        public DataTable GetCultivos()
+        {
+            return tabla;
+        }
     }
 }

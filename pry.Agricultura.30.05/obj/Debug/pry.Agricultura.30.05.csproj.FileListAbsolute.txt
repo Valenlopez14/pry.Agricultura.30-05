@@ -9,3 +9,14 @@ D:\Escritorio\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.csproj.Gener
 D:\Escritorio\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.csproj.CoreCompileInputs.cache
 D:\Escritorio\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.exe
 D:\Escritorio\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.pdb
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\bin\Debug\pry.Agricultura.30.05.exe.config
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\bin\Debug\pry.Agricultura.30.05.exe
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\bin\Debug\pry.Agricultura.30.05.pdb
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura._30._05.Form1.resources
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura._30._05.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.exe
+C:\Users\Alumno\Source\Repos\pry.Agricultura.30-05\pry.Agricultura.30.05\obj\Debug\pry.Agricultura.30.05.pdb

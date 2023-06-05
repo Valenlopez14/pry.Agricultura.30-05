@@ -39,8 +39,12 @@ namespace pry.Agricultura._30._05
 
         private void btnGraficar_Click(object sender, EventArgs e)
         {
+            clsCultivos objCult = new clsCultivos();
+            
+
+            chart.Series.Clear();
             clsProduccion objProduccion = new clsProduccion();
-            objProduccion.Graficar((int)cbLocalidad.SelectedValue, chart1);
+            objProduccion.Graficar((int)cbLocalidad.SelectedValue, chart);
         }
 
         private void btnActualizar_Click(object sender, EventArgs e)

@@ -70,7 +70,29 @@ namespace pry.Agricultura._30._05
 
         public void Graficar(int Localidad, Chart chart)
         {
+            clsCultivos objCultivo = new clsCultivos();
+            DataTable tc = objCultivo.GetCultivos();
 
+            chart.Series.Clear();
+
+            Series serie = chart.Series.Add("Produccion");
+
+            foreach (DataRow fc in tc.Rows)
+            { 
+                Object [] clave = new object[2];
+                clave [0] = Localidad;
+                clave [1] = fc["cultivo"].ToString();
+
+                int toneladas = 0;
+                DataRow fp = tabla.Rows.Find(clave);
+
+                if (fp != null)
+                {
+                    toneladas =(int) fp["toneladas"];
+                }
+
+                serie.Points.AddXY(fc["nombre"], toneladas);
+            }
         }
     }
 }
